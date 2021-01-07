@@ -14,9 +14,11 @@ Key points highlighted:
 - The most common room type in HK is private rooms
 
 
+If only focus on the New Terrotories (including outlying islands), 
+
  <img src='images/1b.png'>
  
- If only focus on the New Terrotories (including outlying islands):
+Key points highlighted:
  - Listings are concentrated most in Islands district, probably searving the needs of holiday accommodation
  - Listings are also concentrated in North district, which is a good choice for people frequently travelling to mainland China
  - More than half of the room type is entire home/apartment
