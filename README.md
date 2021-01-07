@@ -42,7 +42,7 @@ Key points highlighted:
 
 ## Reviews
 
-<img src='images/3.png'>
+<img src='images/3.png' height=400>
 
 Key points highlighted:
 - er...
