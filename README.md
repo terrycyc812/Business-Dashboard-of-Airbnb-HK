@@ -27,3 +27,10 @@ Insight:
  Insight:
  - Islands district maybe a popular short-trip destination for HKers
  - North district maybe a convenient location for people working in mainland China
+
+
+## Pricing
+<img src='images/2a.png'>
+
+Key points highlighted:
+- Southern district
