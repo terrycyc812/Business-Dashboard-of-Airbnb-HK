@@ -1,11 +1,11 @@
 # Business Dashboard of Airbnb(HK)
  To build a dashboard for senior management to monitor the business condition of Airbnb(HK) with a single click.
  
-### Data source
+## Data source
  Data is obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) compiled on 25 Oct, 2020. Since no booking data is provided, revenue cannot be calculated to reveal the actual business performance. 
 
 
-### Overview
+## Overview
 <img src='images/1a.png'>
 
 Key points highlighted:
