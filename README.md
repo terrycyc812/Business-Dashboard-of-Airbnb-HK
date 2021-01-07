@@ -1,5 +1,5 @@
 # Business Dashboard of Airbnb(HK)
- To build a dashboard for senior management to monitor the business condition of Airbnb(HK) with a single click.
+ To build a dashboard for senior management to monitor the business condition of Airbnb(HK) with a single click on the interactive charts.
  
 ## Data source
  Data is obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) compiled on 25 Oct, 2020. Since no booking data is provided, revenue cannot be calculated to reveal the actual business performance. 
@@ -38,3 +38,29 @@ Key points highlighted:
 - Nearly half of the listings fall in the price range of $300-$1000, distributed in all 18 districts
 - Around 37% of listings fall in the lowest price range (<$300), distributed in all 17 districts except Kwai Tsing
 - 47 listings fall in the highest range (>$10000), distributed in 10 different districts
+
+
+## Reviews
+
+<img src='images/3.png'>
+
+Key points highlighted:
+- er...
+
+
+## Availability
+
+<img src='images/4a.png'>
+
+**Focusing on "*Count of Instant Bookable Listing*" section**<br>
+Key points highlighted:
+- If consumers want to book a listing instantly, private room in Kowloon will be a good choice
+- Even >100 hotel rooms in Kowloon allow instant booking
+- Most of the listings in outlyig islands require pre-booking
+
+
+**Focusing on "*Availability by Month*" section**<br>
+Key points highlighted:
+- The availability in 12/2020 is still high. COVID-19 has a severe impart on the booking even there is a Christmas holiday
+- There is a drop of availability in 02/2021. It may be due to the Chinese New Year Holidays. 
+- A decreasing trend across the rest of the year. 
