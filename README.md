@@ -50,7 +50,7 @@ Key points highlighted:
 
 ## Availability
 
-<img src='images/4a.png'>
+<img src='images/4a.png' height=500>
 
 **Focusing on "*Count of Instant Bookable Listing*" section**<br>
 Key points highlighted:
