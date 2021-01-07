@@ -9,28 +9,32 @@
 <img src='images/1a.png'>
 
 Key points highlighted:
-- Listings are concentrated in Yau Tsim Mong district, with nearly half of the total listings in HK
-- The most expensive listing is also located in Yau Tsim Mong district, with 81K per night
+- Nearly half of the listings are concentrated in Yau Tsim Mong district, the center location of HK
+- The most expensive listing is located in Yau Tsim Mong district, with an abnormally high price (81K per night)
 - The most common room type in HK is private rooms
 
-Insight:
-- Yau Tsim Mong district is at the centre of HK, with convenient transports and shopping places around
-- There maybe many subdivided flats
- <br>
+
+If only focus on the New Terrotories (including outlying islands), 
+
  <img src='images/1b.png'>
  
- If only focus on the New Terrotories (including outlying islands):
- - Listings are concentrated in Islands and North districts
- - The most expensive listing is located in Sai Kung, with 30K per night
+Key points highlighted:
+ - Listings are concentrated most in Islands district, probably searving the needs of holiday accommodation
+ - Listings are also concentrated in North district, which is a good choice for people frequently travelling to mainland China
  - More than half of the room type is entire home/apartment
  
- Insight:
- - Islands district maybe a popular short-trip destination for HKers
- - North district maybe a convenient location for people working in mainland China
-
-
+ 
 ## Pricing
 <img src='images/2a.png'>
 
+**Focusing on "*District by Median Price*" section**<br>
 Key points highlighted:
-- Southern district
+- Southern district has the highest price level
+- Central & Western district has an unexpectedly lower price level than Kwau Tsing and other 2 districts 
+
+
+**Focusing on "*No. of Listings by Price Range*" section**<br>
+Key points highlighted:
+- Nearly half of the listings fall in the price range of $300-$1000, distributed in all 18 districts
+- Around 37% of listings fall in the lowest price range (<$300), distributed in all 17 districts except Kwai Tsing
+- 47 listings fall in the highest range (>$10000), distributed in 10 different districts
