@@ -5,6 +5,7 @@
  Data is obtained from [Inside Airbnb](http://insideairbnb.com/get-the-data.html) compiled on 25 Oct, 2020. Since no booking data is provided, revenue cannot be calculated to reveal the actual business performance. 
 <br>
 
+
 ## Overview
 <img src='images/1a.png'>
 
@@ -69,10 +70,10 @@ The availability of individual district can be shown by a single click
 
 ## Hosts
 
-<img src='images/5a.png'>
+<img src='images/5a.png' height=500>
 
 Airbnb has a superhost scheme to encourage the hosts to provide the best hosting service. From the top section, superhosts can provide better services (so higher rating) with cheaper prices. It is suggested for customers to search for listings from superhosts in order to enjoy an valuable experience. 
 
 By selecting the filter, it is easy to find out the listings from all superhosts. 
 
-<img src='images/5b.png'>
+<img src='images/5b.png' height=500>
