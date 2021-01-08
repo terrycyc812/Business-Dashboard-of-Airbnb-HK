@@ -8,7 +8,6 @@
 ## Overview
 <img src='images/1a.png'>
 
-Key points highlighted:
 - Nearly half of the listings are concentrated in Yau Tsim Mong district, the center location of HK
 - The most expensive listing is located in Yau Tsim Mong district, with an abnormally high price (81K per night)
 - The most common room type in HK is private rooms
@@ -18,11 +17,11 @@ If only focus on the New Terrotories (including outlying islands),
 
  <img src='images/1b.png'>
  
-Key points highlighted:
  - Listings are concentrated most in Islands district, probably searving the needs of holiday accommodation
  - Listings are also concentrated in North district, which is a good choice for people frequently travelling to mainland China
  - More than half of the room type is entire home/apartment
- 
+ <br>
+ <br>
  
 ## Pricing
 <img src='images/2a.png'>
