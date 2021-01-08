@@ -55,8 +55,8 @@ If only focus on the New Terrotories (including outlying islands),
 <img src='images/4a.png' height=500>
 
 **From "*Count of Instant Bookable Listing*" section (top)**<br>
-- If consumers want to book a listing instantly, private room in Kowloon will be a good choice
-- Most of the listings in outlyig islands require pre-booking
+- If customers want to book a listing instantly, private room in Kowloon will be a good choice
+- Most of the listings in outlying islands require pre-booking
 
 **From "*Availability by Month*" section (botton-left)**<br>
 - The availability in 12/2020 is still high. COVID-19 may still have a severe impart on the booking even there is a Christmas holiday
