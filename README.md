@@ -44,23 +44,34 @@ Key points highlighted:
 
 <img src='images/3.png' height=400>
 
+**Focusing on "*Covariance with Rating*" section (top-left)**<br>
 Key points highlighted:
-- er...
+- Cleanliness has the highest covariance with the final rating of a listing. This aspect is the major concern of the customers
+- Location has the lowest covariance. Customers will not count too much when rating a listing
+
+
+**Focusing on "*Review Count of each Price Range*" section (right)**<br>
+Key points highlighted:
+- The highest review count falls in the lowest price range. 
 
 
 ## Availability
 
 <img src='images/4a.png' height=500>
 
-**Focusing on "*Count of Instant Bookable Listing*" section**<br>
+**Focusing on "*Count of Instant Bookable Listing*" section (top)**<br>
 Key points highlighted:
 - If consumers want to book a listing instantly, private room in Kowloon will be a good choice
-- Even >100 hotel rooms in Kowloon allow instant booking
 - Most of the listings in outlyig islands require pre-booking
 
 
-**Focusing on "*Availability by Month*" section**<br>
+**Focusing on "*Availability by Month*" section (botton left)**<br>
 Key points highlighted:
-- The availability in 12/2020 is still high. COVID-19 has a severe impart on the booking even there is a Christmas holiday
-- There is a drop of availability in 02/2021. It may be due to the Chinese New Year Holidays. 
-- A decreasing trend across the rest of the year. 
+- The availability in 12/2020 is still high. COVID-19 may still have a severe impart on the booking even there is a Christmas holiday
+- There is a drop of availability in 02/2021. It may be due to the Chinese New Year Holidays, with higher demand / less supply
+
+
+The availability of individual district can be shown by a single click
+
+<img src='images/4b.png' height=500>
+
